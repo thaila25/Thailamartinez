@@ -1,4 +1,6 @@
 body {
+  background-color: #f0f0f0; /* Cor cinza claro */
+}body {
   background-image: url('caminho/para/a/imagem.jpg');
   background-size: cover; /* A imagem cobre toda a tela, podendo ser distorcida */
   background-repeat: no-repeat; /* A imagem não se repete */
