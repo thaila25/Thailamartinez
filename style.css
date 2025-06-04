@@ -5,4 +5,6 @@ body {
   background-size: cover; /* A imagem cobre toda a tela, podendo ser distorcida */
   background-repeat: no-repeat; /* A imagem não se repete */
   background-attachment: fixed; /* A imagem fica fixa enquanto a página rola */
+}.cor-de-fundo {
+  background-color: rgb(106, 255, 0); /* Cor de fundo amarela */
 }
