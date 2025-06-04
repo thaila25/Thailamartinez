@@ -1,10 +1,3 @@
-body {
-  background-color: #f0f0f0; /* Cor cinza claro */
-}body {
-  background-image: url('caminho/para/a/imagem.jpg');
-  background-size: cover; /* A imagem cobre toda a tela, podendo ser distorcida */
-  background-repeat: no-repeat; /* A imagem não se repete */
-  background-attachment: fixed; /* A imagem fica fixa enquanto a página rola */
-}.cor-de-fundo {
-  background-color: rgb(106, 255, 0); /* Cor de fundo amarela */
+.cor-de-fundo {
+  background-color: rgb(11, 184, 46); /* Cor de fundo amarela */
 }
